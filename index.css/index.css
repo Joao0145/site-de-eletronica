@@ -1,0 +1,47 @@
+body {
+    background-color: aquamarine;
+    background-color: grey;
+}
+button{
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 20px;
+    height: 20px;
+
+}
+img {
+    align-items: center;
+}
+button{
+    align-content: center;
+}
+audio{
+    display: flex;
+    justify-content: space-between;
+}
+audio {
+    text-align: center;
+}
+
+table { 
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+ table {
+width: 900px;
+height: 450px;
+ }
